@@ -1,6 +1,6 @@
 # LLM API Gateway
 
-迁移到正式仓库： https://github.com/boonya-hrgk/llm-api-gateway
+开源版是单机模式 正式版：llm-api-gateway （需商业授权使用）
 
 > 大模型 API 代理网关 + `sk-*` 密钥授权管理，基于 FastAPI 构建，支持多上游路由、流式 SSE 透传、内置对话界面与 Docker 一键部署。
 
